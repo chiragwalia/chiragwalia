@@ -1,7 +1,10 @@
 ### Hi there 👋
 
 
-Here are some ideas to get you started:
+I am Chirag a data enginner by profession on a journey to become a code ninja.
+
+- Dojos I have been a part of :
+- Python
 
 - 🌱 I’m currently learning ...
 - Go  <img src="https://github.com/chiragwalia/chiragwalia/blob/main/dancing-gopher.gif" alt="Your GIF" width="50" style="max-width:50%"/>
