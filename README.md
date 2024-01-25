@@ -16,7 +16,7 @@ I am Chirag a data enginner by profession on a journey to become a code ninja.
 - 💬 Ask me about &rarr;
      Anime, Java(I hate Java)
 
-- 📫 How to reach me:
+
 [![Linkedin: chiragwalia](https://img.shields.io/badge/-chiragwalia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chiragwalia/)](https://www.linkedin.com/in/chiragwalia/)
 
 
