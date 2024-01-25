@@ -3,11 +3,9 @@
 
 I am Chirag a data enginner by profession on a journey to become a code ninja.
 
-- Dojos I have been a part of :
-     Python
 
 - 🌱 I’m currently learning &rarr;
-     Go  <img src="https://github.com/chiragwalia/chiragwalia/blob/main/dancing-gopher.gif" alt="Your GIF" width="50" style="max-width:50%"/>
+     Go  <img src="https://github.com/chiragwalia/chiragwalia/blob/main/dancing-gopher.gif" alt="Your GIF" width="50" style="max-width:40%"/>
 
 - 👯 I’m looking to collaborate on &rarr;
      Go, Python, Desktop App's
